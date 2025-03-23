@@ -1,0 +1,23 @@
+
+---
+
+### **2. 22_EndpointLatencyLogger**  
+**Description:**  
+A script that monitors URL uptime and logs status codes and response times.
+
+#### **README.md**
+```markdown
+# EndpointLatencyLogger - Uptime & Performance Tracker
+
+EndpointLatencyLogger gives a simple view into your API's responsiveness with detailed logs and average timing.
+
+## Features
+- Supports multiple URLs  
+- Tracks downtime  
+- Simple output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/22_EndpointLatencyLogger.git
+cd 22_EndpointLatencyLogger
+python monitor.py
