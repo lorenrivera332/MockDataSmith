@@ -1,0 +1,23 @@
+
+---
+
+### **4. 22_ChartStreamAnimator**  
+**Description:**  
+A tool for creating animated charts from incoming numerical data.
+
+#### **README.md**
+```markdown
+# ChartStreamAnimator - Live Data Visualizer
+
+ChartStreamAnimator is perfect for quickly visualizing trends in data received from APIs, sensors, or simulations.
+
+## Features
+- Matplotlib-powered  
+- Live chart updates  
+- Simple and clean interface  
+
+## Usage
+```bash
+git clone https://github.com/your-username/22_ChartStreamAnimator.git
+cd 22_ChartStreamAnimator
+python visualize.py
