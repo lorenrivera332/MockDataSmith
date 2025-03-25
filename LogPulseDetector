@@ -1,0 +1,23 @@
+
+---
+
+### **3. 22_LogPulseDetector**  
+**Description:**  
+A tool that detects bursts of error messages or warnings from system logs.
+
+#### **README.md**
+```markdown
+# LogPulseDetector - Log Frequency Scanner
+
+LogPulseDetector finds clusters of similar messages in logs that may indicate a recurring issue or attack attempt.
+
+## Features
+- Detects message frequency  
+- Highlights unique lines  
+- Works on rotated logs  
+
+## Usage
+```bash
+git clone https://github.com/your-username/22_LogPulseDetector.git
+cd 22_LogPulseDetector
+python analyze.py /var/log/syslog
